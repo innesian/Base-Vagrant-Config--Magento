@@ -1,1 +1,0 @@
-# Base Vagrant Config: Magento
