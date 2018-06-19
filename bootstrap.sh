@@ -54,6 +54,7 @@ apt-get -q -y install php7.0-cli php7.0-common libapache2-mod-php7.0 php7.0 php7
 /etc/init.d/apache2 restart
 
 apt-get -q -y install php7.0-xml
+apt-get -q -y install php7.0-soap
 apt-get -q -y install php7.0-mcrypt
 apt-get -q -y install php7.0-intl
 apt-get -q -y install php7.0-mbstring
